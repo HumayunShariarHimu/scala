@@ -6,8 +6,9 @@
         "type": "git",
         "url": "https://github.com/HumayunShariarHimu/scala.git"
     },
-    "author": "Humayun Shariar Himu",
+    "author": "HowToCode <ask@howtocode.com.bd>",
     "dependencies": {
         "gitbook-plugin-disqus": "0.0.1"
-    }
+    },
+    "maintainer": "Humayun Shariar Himu"
 }
